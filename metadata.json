@@ -1,0 +1,7 @@
+{
+  "name": "Presto Pizza app with Firebase-3",
+  "description": "A modern, responsive pizza chain website with online ordering, menu browsing, and cart functionality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
