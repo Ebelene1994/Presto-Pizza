@@ -1,4 +1,4 @@
-# Presto Pizza App
+# Presto Pizza App With Firebase Authenticaton & Database
 
 A modern, responsive pizza chain website with online ordering, menu browsing, and cart functionality.
 
